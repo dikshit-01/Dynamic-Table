@@ -1,0 +1,56 @@
+
+table {
+  margin: auto;
+}
+table,
+th,
+td {
+  border: 1px solid black;
+  text-align: center;
+}
+th,
+td {
+  padding: 20px;
+}
+#columns {
+  width: 140px;
+}
+
+.submit {
+  text-align: center;
+  margin-top: 50px;
+}
+#btn1{
+    padding: 10px;
+    background-color: lightslategray;
+    color: black;
+    font-size: 25px;
+    border-radius: 20px;
+}
+ 
+h3{
+  text-align: center;
+  text-decoration: underline;
+  margin-bottom: 20px;
+}
+
+.container {
+  background-color: lightslategray;
+  padding: 20px;
+}
+
+input{
+  border-radius: 10px;
+  font-size: 25px;
+  width: 200px;
+  padding: 10px;
+}
+label {
+  font-size: 25px;
+}
+#inputFields {
+  text-align: center;
+  margin: auto;
+  margin-top: 20px;
+  width: 60%;
+} 
